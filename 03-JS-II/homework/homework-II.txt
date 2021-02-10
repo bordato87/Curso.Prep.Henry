@@ -1,0 +1,7 @@
+ -for: es un bucle el cual le indicaremos tres parametros (variable de inicialización, expresión condicional, incremento)
+esto ejecútara lo que pongamos dentro del bloque hasta que la condición sea false.
+
+ -&&, ||, !: Operadores lógicos: operador "AND" con el evaluaremos dos expresiones y devolvedrá TRUE 
+solo si las dos son TRUE, de lo contrario devuelve FALSE. Operador "OR" con el evaluaremos dos expresiones 
+y devolverá TRUE si alguna de las dos es TRUE, de lo contrario devuelve FALSE. Operador "NOT" nos devuelve el 
+valor booleano opuesto al que le pasamos.

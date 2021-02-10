@@ -1,0 +1,4 @@
+ -prototype: es la forma de herencia que maneja js.
+
+ -Constructors (de Clases): es un método de la clase. Se usa para establecer las propiedades del objeto 
+o para llamar a los métodos.

@@ -1,0 +1,11 @@
+ -Objetos: los objetos son contenedores de datos. Contienen mucha información sobre una sola cosa. Dentro
+de estos encontraremos propiedades y métodos. Se instancian usando llaves {}.
+
+ -Propiedades: son elementos de datos que asignamos dentro del objeto.
+ 
+ -Métodos: son funciones guardadas dentro de los objetos.
+ 
+ -Bucle for…in: es un bucle para interar sobre cada par clave-valor de nuestro objeto.
+ 
+ -Notación de puntos vs notación de corchetes: La notación de corchetes es como llamar a un elemento en una matriz, 
+aunque con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número.

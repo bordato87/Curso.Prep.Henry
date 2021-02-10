@@ -1,0 +1,11 @@
+ -Variable: es una forma de almacenar un valor en memoria.
+
+ -String: es una cadena de caracteres.
+
+ -Funciones (argumentos, return): Las funciones son una manera de trabajar con las variables y no caer en repetir código.
+Los argumentos son variables declaradas en la función que van a ser utilizadas dentro de la misma.
+Return es la manera que devolvemos lo que queremos que retorne la función, cuando la misma se encuentra con return se detiene.
+
+ -Declaraciones if: es un condicional que evalua una operacion lógica. Si "xxx" (true) entonces "xxx".
+
+ -Valores booleanos (true, false): son un tipo de variable que solo puede tomar dos valores, false (0) y true (1).

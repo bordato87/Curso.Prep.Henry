@@ -1,0 +1,2 @@
+ -Arrays: es un tipo de dato estructurado que nos permite almacenar dentro
+un conjunto de datos.
